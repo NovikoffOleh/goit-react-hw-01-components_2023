@@ -1,0 +1,32 @@
+[
+    {
+      "avatar": "https://img.icons8.com/fluency/512/eric-cartman.png",
+      "name": "Василь",
+      "isOnline": true,
+      "id": 1812
+    },
+    {
+      "avatar": "https://img.icons8.com/fluency/512/kenny-mccormick.png",
+      "name": "Маргарита",
+      "isOnline": false,
+      "id": 1137
+    },
+    {
+      "avatar": "https://img.icons8.com/fluency/512/homer-simpson.png",
+      "name": "Гриць",
+      "isOnline": true,
+      "id": 1213
+    },
+    {
+      "avatar": "https://img.icons8.com/fluency/512/stan-marsh.png",
+      "name": "Ліза",
+      "isOnline": true,
+      "id": 1714
+    },
+    {
+      "avatar": "https://img.icons8.com/fluency/512/kyle-broflovski.png",
+      "name": "Петро",
+      "isOnline": false,
+      "id": 1284
+    }
+  ]
