@@ -1,13 +1,13 @@
 [
     {
-      "avatar": "https://img.icons8.com/fluency/512/eric-cartman.png",
-      "name": "Василь",
+      "avatar": "https://img.icons8.com/fluency/512/wendy-corduroy.png",
+      "name": "Міла",
       "isOnline": true,
       "id": 1812
     },
     {
-      "avatar": "https://img.icons8.com/fluency/512/kenny-mccormick.png",
-      "name": "Маргарита",
+      "avatar": "https://img.icons8.com/fluency/512/stanley-pines.png",
+      "name": "Олег",
       "isOnline": false,
       "id": 1137
     },
@@ -18,7 +18,7 @@
       "id": 1213
     },
     {
-      "avatar": "https://img.icons8.com/fluency/512/stan-marsh.png",
+      "avatar": "https://img.icons8.com/fluency/512/mabel-pines.png",
       "name": "Ліза",
       "isOnline": true,
       "id": 1714
