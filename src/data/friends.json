@@ -28,5 +28,11 @@
       "name": "Петро",
       "isOnline": false,
       "id": 1284
+    },
+    {
+      "avatar": "https://img.icons8.com/fluency/512/gunter.png",
+      "name": "Гюнтер",
+      "isOnline": true,
+      "id": 1784
     }
   ]
